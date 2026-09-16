@@ -68,9 +68,9 @@ var CONFIG = {
   // ---- Podcast (áudio gerado por GitHub Action; ver repositório resumo-matinal-podcast) ----
   PODCAST: {
     ATIVO: true,
-    GITHUB_REPO: 'SEU_USUARIO/resumo-matinal-podcast',   // dono/repositório no GitHub
+    GITHUB_REPO: 'magoboy/resumo-matinal-podcast',   // dono/repositório no GitHub
     // Token vem das Propriedades do script (chave GITHUB_TOKEN) — nunca cole aqui.
-    SITE_URL: 'https://SEU_USUARIO.github.io/resumo-matinal-podcast',
+    SITE_URL: 'https://magoboy.github.io/resumo-matinal-podcast',
     SPOTIFY_URL: '',            // opcional: link do programa no Spotify, depois de aprovado
     AGENDA_NO_AUDIO: false      // o podcast é PÚBLICO no Spotify — deixe false para não narrar sua agenda
   }
