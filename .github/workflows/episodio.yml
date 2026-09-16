@@ -1,0 +1,58 @@
+name: Gerar episódio do Resumo Matinal
+
+on:
+  repository_dispatch:
+    types: [novo-episodio]          # disparado pelo Apps Script
+  workflow_dispatch:                 # botão "Run workflow" para testar com dados de exemplo
+
+permissions:
+  contents: write
+
+concurrency:
+  group: episodio
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q -r requirements.txt
+
+      - name: Baixar site atual (branch gh-pages)
+        run: |
+          git clone --quiet --depth 1 --branch gh-pages \
+            "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" site \
+            || mkdir -p site
+
+      - name: Gerar roteiro, áudio e feed
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PAYLOAD: ${{ toJSON(github.event.client_payload) }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          VOZ: ${{ vars.VOZ }}                       # opcional: Charon (padrão), Kore, Puck, Aoede...
+          MODELO_TEXTO: ${{ vars.MODELO_TEXTO }}     # opcional
+          MODELO_TTS: ${{ vars.MODELO_TTS }}         # opcional
+          MANTER_EPISODIOS: ${{ vars.MANTER_EPISODIOS }}
+          OWNER_EMAIL: ${{ vars.OWNER_EMAIL }}           # seu e-mail: o Spotify verifica a posse do feed por ele
+        run: python gerar_episodio.py
+
+      - name: Publicar no GitHub Pages (branch gh-pages, histórico de 1 commit)
+        run: |
+          cd site
+          rm -rf .git
+          git init -q -b gh-pages
+          git config user.name "resumo-matinal-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Episódio $(date -u +%Y-%m-%d)"
+          git push --force --quiet \
+            "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" gh-pages
