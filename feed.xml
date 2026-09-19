@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Resumo Matinal</title>
+    <link>https://magoboy.github.io/resumo-matinal-podcast/</link>
+    <atom:link href="https://magoboy.github.io/resumo-matinal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>pt-br</language>
+    <description>Manchetes do dia sobre Brasil, meio ambiente e tecnologia, geradas automaticamente todas as manhãs.</description>
+    <itunes:summary>Manchetes do dia sobre Brasil, meio ambiente e tecnologia, geradas automaticamente todas as manhãs.</itunes:summary>
+    <itunes:author>Resumo Matinal</itunes:author>
+    <itunes:owner><itunes:name>Resumo Matinal</itunes:name><itunes:email>magoboy29@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://magoboy.github.io/resumo-matinal-podcast/cover.png"/>
+    <image><url>https://magoboy.github.io/resumo-matinal-podcast/cover.png</url><title>Resumo Matinal</title><link>https://magoboy.github.io/resumo-matinal-podcast/</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Sat, 19 Sep 2026 04:05:52 -0300</lastBuildDate>
+    <item>
+      <title>Resumo matinal – sábado, 19 de setembro de 2026</title>
+      <description>Nesta edição: Governadores pedem a Lula inclusão do gás natural no Redata; Lula prepara caminhada com João Campos no Recife na 6ª feira; Debate esvaziado reúne Zema, Cury e Samara em São Paulo.</description>
+      <itunes:summary>Nesta edição: Governadores pedem a Lula inclusão do gás natural no Redata; Lula prepara caminhada com João Campos no Recife na 6ª feira; Debate esvaziado reúne Zema, Cury e Samara em São Paulo.</itunes:summary>
+      <pubDate>Sat, 19 Sep 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-09-19</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-09-19</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-09-19.mp3" length="4117954" type="audio/mpeg"/>
+      <itunes:duration>00:04:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – sexta-feira, 18 de setembro de 2026</title>
+      <description>Nesta edição: Pax/Quaest: 70% dizem que violência “aumentou muito” em 2 anos; Instituto faz comparativo de 228 indicadores dos estados brasileiros; Flávio Bolsonaro lidera em 5 das 10 UFs com menor pobreza extrema.</description>
+      <itunes:summary>Nesta edição: Pax/Quaest: 70% dizem que violência “aumentou muito” em 2 anos; Instituto faz comparativo de 228 indicadores dos estados brasileiros; Flávio Bolsonaro lidera em 5 das 10 UFs com menor pobreza extrema.</itunes:summary>
+      <pubDate>Fri, 18 Sep 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-09-18</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-09-18</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-09-18.mp3" length="3601367" type="audio/mpeg"/>
+      <itunes:duration>00:03:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – quinta-feira, 17 de setembro de 2026</title>
+      <description>Nesta edição: Lula sugere que Corinthians venda Parque São Jorge para pagar Itaquera; Lula diz que não dará dinheiro ao BRB e chama Celina de cínica; China anuncia 7 medidas de incentivo a casas inteligentes.</description>
+      <itunes:summary>Nesta edição: Lula sugere que Corinthians venda Parque São Jorge para pagar Itaquera; Lula diz que não dará dinheiro ao BRB e chama Celina de cínica; China anuncia 7 medidas de incentivo a casas inteligentes.</itunes:summary>
+      <pubDate>Thu, 17 Sep 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-09-17</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-09-17</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-09-17.mp3" length="3858414" type="audio/mpeg"/>
+      <itunes:duration>00:04:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – quarta-feira, 16 de setembro de 2026</title>
+      <description>Nesta edição: TRE-RJ barra candidatura de Cristiane Brasil por vínculo com milícia; Safra de grãos pode bater recorde e crescer 1,4% em 2026/27; Anvisa alerta para falta de vitamina B6 com remédio para Parkinson.</description>
+      <itunes:summary>Nesta edição: TRE-RJ barra candidatura de Cristiane Brasil por vínculo com milícia; Safra de grãos pode bater recorde e crescer 1,4% em 2026/27; Anvisa alerta para falta de vitamina B6 com remédio para Parkinson.</itunes:summary>
+      <pubDate>Wed, 16 Sep 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-09-16</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-09-16</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-09-16.mp3" length="4299779" type="audio/mpeg"/>
+      <itunes:duration>00:04:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
