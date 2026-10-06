@@ -27,15 +27,17 @@ var CONFIG = {
   TIMEZONE: 'America/Sao_Paulo',
 
   // Nomes EXATOS dos calendários. O calendário principal é incluído automaticamente.
+  // Se renomear um calendário no Google Agenda, atualize aqui (o log avisa quando um nome não existe).
   CALENDARIOS_TRABALHO: [
-    'Análise de Condicionantes.',
-    'Processos CONDEMA',
-    'Calendário FUNAT - Fiscalização'
+    'Trabalho',
+    'REUNIÕES DA FISCALIZAÇÃO',
+    'Ofícios - FUNAT',
+    'Rotina'
   ],
 
   // Calendários em que eventos de DIA INTEIRO devem ser ignorados.
   CALENDARIOS_IGNORAR_DIA_INTEIRO: [
-    'Calendário FUNAT - Fiscalização'
+    'REUNIÕES DA FISCALIZAÇÃO'
   ],
 
   // Feeds por tema. { url, nome } — o nome aparece como fonte no e-mail.
@@ -200,7 +202,9 @@ function montarAgenda_() {
   coletarEventos_(CalendarApp.getDefaultCalendar(), inicio, fim, false, linhas);
   CONFIG.CALENDARIOS_TRABALHO.forEach(function (nome) {
     var ignorarDiaInteiro = CONFIG.CALENDARIOS_IGNORAR_DIA_INTEIRO.indexOf(nome) !== -1;
-    CalendarApp.getCalendarsByName(nome).forEach(function (cal) {
+    var cals = CalendarApp.getCalendarsByName(nome);
+    if (cals.length === 0) Logger.log('AVISO: calendário "' + nome + '" não encontrado — confira CONFIG.CALENDARIOS_TRABALHO.');
+    cals.forEach(function (cal) {
       coletarEventos_(cal, inicio, fim, ignorarDiaInteiro, linhas);
     });
   });
