@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Resumo Matinal</title>
+    <link>https://magoboy.github.io/resumo-matinal-podcast/</link>
+    <atom:link href="https://magoboy.github.io/resumo-matinal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>pt-br</language>
+    <description>Manchetes do dia sobre Brasil, meio ambiente e tecnologia, geradas automaticamente todas as manhãs.</description>
+    <itunes:summary>Manchetes do dia sobre Brasil, meio ambiente e tecnologia, geradas automaticamente todas as manhãs.</itunes:summary>
+    <itunes:author>Resumo Matinal</itunes:author>
+    <itunes:owner><itunes:name>Resumo Matinal</itunes:name><itunes:email>magoboy29@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://magoboy.github.io/resumo-matinal-podcast/cover.png"/>
+    <image><url>https://magoboy.github.io/resumo-matinal-podcast/cover.png</url><title>Resumo Matinal</title><link>https://magoboy.github.io/resumo-matinal-podcast/</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Sat, 10 Oct 2026 04:09:20 -0300</lastBuildDate>
+    <item>
+      <title>Resumo matinal – sábado, 10 de outubro de 2026</title>
+      <description>Nesta edição: TSE manda suspender site que oferece criptomoedas por apoio a Flávio; Flávio Bolsonaro terá feriado com compromissos em SP e Brasília; Mulher de Flávio diz que “inventar mentiras” é diferente de discordar.</description>
+      <itunes:summary>Nesta edição: TSE manda suspender site que oferece criptomoedas por apoio a Flávio; Flávio Bolsonaro terá feriado com compromissos em SP e Brasília; Mulher de Flávio diz que “inventar mentiras” é diferente de discordar.</itunes:summary>
+      <pubDate>Sat, 10 Oct 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-10-10</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-10-10</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-10-10.mp3" length="4785433" type="audio/mpeg"/>
+      <itunes:duration>00:04:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – sexta-feira, 9 de outubro de 2026</title>
+      <description>Nesta edição: Temer diz ser alvo de deepfake com críticas ao STF; Lula tem 44,2% e Flávio, 42,7% no 2º turno, diz Vox Brasil; Janones minimiza peso do apoio de candidatos derrotados a Flávio.</description>
+      <itunes:summary>Nesta edição: Temer diz ser alvo de deepfake com críticas ao STF; Lula tem 44,2% e Flávio, 42,7% no 2º turno, diz Vox Brasil; Janones minimiza peso do apoio de candidatos derrotados a Flávio.</itunes:summary>
+      <pubDate>Fri, 09 Oct 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-10-09</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-10-09</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-10-09.mp3" length="6470653" type="audio/mpeg"/>
+      <itunes:duration>00:06:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – quinta-feira, 8 de outubro de 2026</title>
+      <description>Nesta edição: Deputado federal eleito por SP é investigado por relação com PCC; Times da Série A usam patrocínios pontuais no lugar de bets; Mãe vai à Justiça após vídeo do filho com arma em ato do PL, diz jornal.</description>
+      <itunes:summary>Nesta edição: Deputado federal eleito por SP é investigado por relação com PCC; Times da Série A usam patrocínios pontuais no lugar de bets; Mãe vai à Justiça após vídeo do filho com arma em ato do PL, diz jornal.</itunes:summary>
+      <pubDate>Thu, 08 Oct 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-10-08</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-10-08</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-10-08.mp3" length="4561835" type="audio/mpeg"/>
+      <itunes:duration>00:04:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – quarta-feira, 7 de outubro de 2026</title>
+      <description>Nesta edição: Flávio diz que usará maioria no Congresso para “mudar a Constituição”; Moraes recebe Andrei e outros chefes da PF no Supremo; Grupo de Paes pede que TSE negue pedido de Garotinho sobre eleição.</description>
+      <itunes:summary>Nesta edição: Flávio diz que usará maioria no Congresso para “mudar a Constituição”; Moraes recebe Andrei e outros chefes da PF no Supremo; Grupo de Paes pede que TSE negue pedido de Garotinho sobre eleição.</itunes:summary>
+      <pubDate>Wed, 07 Oct 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-10-07</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-10-07</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-10-07.mp3" length="4387128" type="audio/mpeg"/>
+      <itunes:duration>00:04:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – terça-feira, 6 de outubro de 2026</title>
+      <description>Nesta edição: Boeing vai triplicar produção de dispositivo usado em míssil; Entenda por que Sánchez antecipou as eleições na Espanha; Atrás no 1º turno, PT investe em ligar Flávio ao crime organizado.</description>
+      <itunes:summary>Nesta edição: Boeing vai triplicar produção de dispositivo usado em míssil; Entenda por que Sánchez antecipou as eleições na Espanha; Atrás no 1º turno, PT investe em ligar Flávio ao crime organizado.</itunes:summary>
+      <pubDate>Tue, 06 Oct 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-10-06</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-10-06</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-10-06.mp3" length="3491858" type="audio/mpeg"/>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – segunda-feira, 5 de outubro de 2026</title>
+      <description>Nesta edição: 16 dos 54 senadores eleitos em 2026 se declaram pardos; nenhum, preto; Derrite se torna o senador mais votado da história do Brasil; Só uma mulher é eleita governadora no 1º turno; 4 vão ao 2º turno.</description>
+      <itunes:summary>Nesta edição: 16 dos 54 senadores eleitos em 2026 se declaram pardos; nenhum, preto; Derrite se torna o senador mais votado da história do Brasil; Só uma mulher é eleita governadora no 1º turno; 4 vão ao 2º turno.</itunes:summary>
+      <pubDate>Mon, 05 Oct 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-10-05</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-10-05</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-10-05.mp3" length="4361635" type="audio/mpeg"/>
+      <itunes:duration>00:04:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – domingo, 4 de outubro de 2026</title>
+      <description>Nesta edição: Da urna ao resultado: entenda o caminho do voto; Eleições 2026: votação começa às 8h; leia tudo o que precisa saber; Entenda como são eleitos deputados e senadores em 2026.</description>
+      <itunes:summary>Nesta edição: Da urna ao resultado: entenda o caminho do voto; Eleições 2026: votação começa às 8h; leia tudo o que precisa saber; Entenda como são eleitos deputados e senadores em 2026.</itunes:summary>
+      <pubDate>Sun, 04 Oct 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-10-04</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-10-04</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-10-04.mp3" length="3466772" type="audio/mpeg"/>
+      <itunes:duration>00:03:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – sábado, 3 de outubro de 2026</title>
+      <description>Nesta edição: TSE recebe convidados internacionais para apresentar sistema eleitoral; Nikolas Ferreira usa meme para ironizar crítica de Janja a ele; A 2 dias das eleições, artistas lançam música “Bora Lula”.</description>
+      <itunes:summary>Nesta edição: TSE recebe convidados internacionais para apresentar sistema eleitoral; Nikolas Ferreira usa meme para ironizar crítica de Janja a ele; A 2 dias das eleições, artistas lançam música “Bora Lula”.</itunes:summary>
+      <pubDate>Sat, 03 Oct 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-10-03</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-10-03</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-10-03.mp3" length="3717964" type="audio/mpeg"/>
+      <itunes:duration>00:03:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – sexta-feira, 2 de outubro de 2026</title>
+      <description>Nesta edição: Nikolas critica Lula e Janja: “Mexeram com o piá errado”; “Globo” cancela debate presidencial por “insegurança jurídica”; “Tudo que Jaques Wagner quer é depor”, diz Lula sobre caso Master.</description>
+      <itunes:summary>Nesta edição: Nikolas critica Lula e Janja: “Mexeram com o piá errado”; “Globo” cancela debate presidencial por “insegurança jurídica”; “Tudo que Jaques Wagner quer é depor”, diz Lula sobre caso Master.</itunes:summary>
+      <pubDate>Fri, 02 Oct 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-10-02</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-10-02</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-10-02.mp3" length="3428328" type="audio/mpeg"/>
+      <itunes:duration>00:03:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – quinta-feira, 1 de outubro de 2026</title>
+      <description>Nesta edição: Zettel diz que Vorcaro guardou R$ 20 bilhões no exterior; Bitcoin sobe 6,51% e Ibovespa 5,03% em setembro; ouro cai 6,52%; Falido, Bordeaux anuncia venda por 1 euro para grupo dos EUA.</description>
+      <itunes:summary>Nesta edição: Zettel diz que Vorcaro guardou R$ 20 bilhões no exterior; Bitcoin sobe 6,51% e Ibovespa 5,03% em setembro; ouro cai 6,52%; Falido, Bordeaux anuncia venda por 1 euro para grupo dos EUA.</itunes:summary>
+      <pubDate>Thu, 01 Oct 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-10-01</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-10-01</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-10-01.mp3" length="3824137" type="audio/mpeg"/>
+      <itunes:duration>00:03:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – quarta-feira, 30 de setembro de 2026</title>
+      <description>Nesta edição: Flávio critica ligação de Lula para Dino em evento do governo; Mendonça libera post de Erika Hilton sobre Nossa Senhora; Lindbergh pede que STF investigue Flávio por fraude nos Correios.</description>
+      <itunes:summary>Nesta edição: Flávio critica ligação de Lula para Dino em evento do governo; Mendonça libera post de Erika Hilton sobre Nossa Senhora; Lindbergh pede que STF investigue Flávio por fraude nos Correios.</itunes:summary>
+      <pubDate>Wed, 30 Sep 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-09-30</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-09-30</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-09-30.mp3" length="3549542" type="audio/mpeg"/>
+      <itunes:duration>00:03:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – terça-feira, 29 de setembro de 2026</title>
+      <description>Nesta edição: Lula diz que mulheres aprendem a “tomar toque” desde pequenas; Zanin libera acesso gratuito a sites da Justiça Eleitoral nas eleições; Flávio tem 45,2% contra 44,7% de Lula no 2º turno, diz pesquisa.</description>
+      <itunes:summary>Nesta edição: Lula diz que mulheres aprendem a “tomar toque” desde pequenas; Zanin libera acesso gratuito a sites da Justiça Eleitoral nas eleições; Flávio tem 45,2% contra 44,7% de Lula no 2º turno, diz pesquisa.</itunes:summary>
+      <pubDate>Tue, 29 Sep 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-09-29</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-09-29</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-09-29.mp3" length="4565599" type="audio/mpeg"/>
+      <itunes:duration>00:04:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – segunda-feira, 28 de setembro de 2026</title>
+      <description>Nesta edição: Ministro da AGU, Jorge Messias defende CNBB após crítica de Flávio; Lula quer polícia nas comunidades e jovens do Exército contra o crime; Moraes é filmado sorrindo enquanto filho dança valsa em casamento.</description>
+      <itunes:summary>Nesta edição: Ministro da AGU, Jorge Messias defende CNBB após crítica de Flávio; Lula quer polícia nas comunidades e jovens do Exército contra o crime; Moraes é filmado sorrindo enquanto filho dança valsa em casamento.</itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-09-28</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-09-28</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-09-28.mp3" length="4182334" type="audio/mpeg"/>
+      <itunes:duration>00:04:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Resumo matinal – domingo, 27 de setembro de 2026</title>
+      <description>Nesta edição: Jornalistas criticam “GloboNews” por corrigir informação sobre padroeira; Fake news de Flávio e a padroeira é 3º maior assunto político nas redes; Rússia defende inclusão do Brasil no Conselho de Segurança da ONU.</description>
+      <itunes:summary>Nesta edição: Jornalistas criticam “GloboNews” por corrigir informação sobre padroeira; Fake news de Flávio e a padroeira é 3º maior assunto político nas redes; Rússia defende inclusão do Brasil no Conselho de Segurança da ONU.</itunes:summary>
+      <pubDate>Sun, 27 Sep 2026 04:05:00 -0300</pubDate>
+      <guid isPermaLink="false">resumo-matinal-2026-09-27</guid>
+      <link>https://magoboy.github.io/resumo-matinal-podcast/#2026-09-27</link>
+      <enclosure url="https://magoboy.github.io/resumo-matinal-podcast/ep/2026-09-27.mp3" length="3664471" type="audio/mpeg"/>
+      <itunes:duration>00:03:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
